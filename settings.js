@@ -19,13 +19,13 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96891103640']
+global.owner = ['212621380740']
 global.premium = ['96891103640']
 global.ownernomer = '96891103640'
-global.ownername = '♛ الامبراطور اياتو ♛'
-global.botname = '♛ غوجو بوت ♛'
-global.footer = ' غوجو بوت ♛'
-global.ig = 'https://github.com/nexusNw'
+global.ownername = 'Empiror Amogus'
+global.botname = 'Gustavo Fring'
+global.footer = 'Gustavo Fring'
+global.ig = 'https://github.com/empiror'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
 global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
