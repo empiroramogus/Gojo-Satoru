@@ -1,7 +1,7 @@
 {
-  "name": "Gojo-Satoru",
-  "version": "2.0.0",
-  "description": "WhatsApp Using Lib Baileys Multi Device",
+  "name": "MKC",
+  "version": "0.0.1",
+  "description": "IDK",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,8 +18,8 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "NexusNw",
-  "license": "MIT",
+  "author": "IDK",
+  "license": "IDK",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
     "@adiwajshing/keyed-db": "^0.2.4",
