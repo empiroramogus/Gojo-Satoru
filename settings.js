@@ -22,8 +22,8 @@ global.APIKeys = {
 global.owner = ['212621380740']
 global.premium = ['212621380740']
 global.ownernomer = '212621380740'
-global.ownername = 'empiror amogus'
-global.botname = 'gus fring'
+global.ownername = 'OWNER'
+global.botname = 'MKC'
 global.footer = '©bot'
 global.ig = 'https://github.com/empiroramogus'
 global.region = 'unknow'
@@ -59,7 +59,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = 'https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Gustavo_Fring_BCS_S3E10.png/220px-Gustavo_Fring_BCS_S3E10.png'
+global.thumb = 'https://i.pinimg.com/564x/de/45/0c/de450cefc0f746ef8e93513b55e62598.jpg'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
